@@ -80,6 +80,6 @@ This project is built upon the Python 3.3 programming language, and uses configu
 
 ## Authors / Owners
 
-- Ben Schwabe [schwabebp@slu.edu]
+- Neeraj Chaudhary [theneerajik@gmail.com]
 
 Please see `LICENCE.md` for more information.
