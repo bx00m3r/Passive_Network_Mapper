@@ -1,6 +1,6 @@
 # NetworkMap.py
 #
-# created by Ben Schwabe [scytail@gmail.com]
+# created by Neeraj Chaudhary [theneerajik@gmail.com]
 # 
 
 import sys
